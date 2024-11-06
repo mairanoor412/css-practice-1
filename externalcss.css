@@ -1,0 +1,12 @@
+body {
+    color:aliceblue;
+}
+h1 {
+    color: rgb(236, 104, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.course {
+    color:rgb(240, 139, 6);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
